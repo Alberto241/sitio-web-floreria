@@ -7,7 +7,7 @@ export default function HomePage() {
     <main className='flex min-h-screen flex-col items-center justify-betwwen p-24'>
       <Slider/>
       <Description/>
-      
+      <br />hola
     </main>
   );
 } 
