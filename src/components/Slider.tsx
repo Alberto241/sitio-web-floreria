@@ -1,4 +1,4 @@
-"use client"; // ← Necesario porque usas useState y useEffect
+/*"use client"; // ← Necesario porque usas useState y useEffect
 
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
@@ -35,4 +35,4 @@ const Slider = () => {
 
 
 
-export default Slider;
+export default Slider;*/

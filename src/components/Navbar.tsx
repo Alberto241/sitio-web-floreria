@@ -1,4 +1,4 @@
-"use client";
+/*"use client";
 
 import React from "react";
 import Link from "next/link";
@@ -9,11 +9,11 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex justify-between items-center h-16">
           {/* Logo o título */}
-          <div className="text-white text-2xl font-bold cursor-pointer hover:text-yellow-300 transition">
+    /*      <div className="text-white text-2xl font-bold cursor-pointer hover:text-yellow-300 transition">
             MiSitio
           </div>
 
-          {/* Menú */}
+          {/* Menú *//*}
           <div className="flex space-x-6">
             {[
               { href: "/", label: "Inicio" },
@@ -29,7 +29,7 @@ const Navbar = () => {
               </Link>
             ))}
 
-            {/* Botón de acción (opcional) */}
+            {/* Botón de acción (opcional) *//*}
             <Link href="/registro">
               <button className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold py-1.5 px-4 rounded-md transition duration-300 shadow-sm">
                 Regístrate

@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 
 const Description = () => {
   return (
@@ -12,5 +12,5 @@ const Description = () => {
   );
 };
 
-export default Description;
+export default Description;*/
 
