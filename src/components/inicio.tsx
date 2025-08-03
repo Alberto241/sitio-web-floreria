@@ -9,7 +9,7 @@ const images = [
   '/img3.jpeg',
 ];
 
-export default function Carousel() {
+export default function Inicio() {
   const [current, setCurrent] = useState(0);
 
   const prev = () => {
